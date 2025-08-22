@@ -1,0 +1,123 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
+  <diagram name="Page-1" id="Fa21BUD3seUADXjdBtQ_">
+    <mxGraphModel dx="2885" dy="2315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yX-QEXWJ67D1rUHlDq-B-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-55" width="990" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-1" value="Basic User" style="shape=umlActor;verticalLabelPosition=middle;verticalAlign=middle;html=1;outlineConnect=0;labelPosition=left;align=right;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-3" value="Se Connecter" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-14" value="Service Client" style="shape=umlActor;verticalLabelPosition=middle;verticalAlign=middle;html=1;outlineConnect=0;labelPosition=left;align=right;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-17" value="Voir les demandes d&#39;aide" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-18" value="Accéder à un chat" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-19" value="Voir les échanges asynchrones" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-23" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="PlmtxpbaNAkLSSeMWVFK-1" target="PlmtxpbaNAkLSSeMWVFK-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="340" as="sourcePoint" />
+            <mxPoint x="330" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-27" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="PlmtxpbaNAkLSSeMWVFK-1" target="PlmtxpbaNAkLSSeMWVFK-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="290" as="sourcePoint" />
+            <mxPoint x="745" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-30" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="PlmtxpbaNAkLSSeMWVFK-1" target="PlmtxpbaNAkLSSeMWVFK-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="237" as="sourcePoint" />
+            <mxPoint x="-24" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-31" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="PlmtxpbaNAkLSSeMWVFK-1" target="PlmtxpbaNAkLSSeMWVFK-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="216" as="sourcePoint" />
+            <mxPoint x="340" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-32" value="Rechercher par catégorie" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-33" value="Réaliser une demande d&#39;assistance instantanée" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="250" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-35" value="Faire une demande d&#39;assistance asynchrone" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="330" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-36" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="PlmtxpbaNAkLSSeMWVFK-1" target="PlmtxpbaNAkLSSeMWVFK-33" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="230" as="sourcePoint" />
+            <mxPoint x="1000" y="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-37" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="PlmtxpbaNAkLSSeMWVFK-1" target="PlmtxpbaNAkLSSeMWVFK-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="330" as="sourcePoint" />
+            <mxPoint x="913" y="398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-38" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=block;startFill=1;" parent="1" source="PlmtxpbaNAkLSSeMWVFK-17" target="PlmtxpbaNAkLSSeMWVFK-32" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="244" as="sourcePoint" />
+            <mxPoint x="373" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-39" value="&amp;lt;&amp;lt; étend &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PlmtxpbaNAkLSSeMWVFK-38" vertex="1" connectable="0">
+          <mxGeometry x="-0.0009" y="-2" relative="1" as="geometry">
+            <mxPoint y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-40" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=block;startFill=0;" parent="1" source="PlmtxpbaNAkLSSeMWVFK-1" target="PlmtxpbaNAkLSSeMWVFK-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="330" as="sourcePoint" />
+            <mxPoint x="227" y="532" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-41" value="Rechercher un chat par son identifiant" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="640" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-42" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="PlmtxpbaNAkLSSeMWVFK-14" target="PlmtxpbaNAkLSSeMWVFK-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="370" as="sourcePoint" />
+            <mxPoint x="267" y="572" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-43" value="Cloturer une demande d&#39;assistance" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="750" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-44" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="PlmtxpbaNAkLSSeMWVFK-14" target="PlmtxpbaNAkLSSeMWVFK-43" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="680" as="sourcePoint" />
+            <mxPoint x="300" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-46" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="PlmtxpbaNAkLSSeMWVFK-1" target="PlmtxpbaNAkLSSeMWVFK-48" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="sourcePoint" />
+            <mxPoint x="550.5450868408675" y="135.3795208890449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlmtxpbaNAkLSSeMWVFK-48" value="Envoyer une réponse" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="90" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yX-QEXWJ67D1rUHlDq-B-2" value="Assistance technique&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-40" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
